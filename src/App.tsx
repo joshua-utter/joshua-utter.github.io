@@ -63,10 +63,10 @@ const App: FC = () => {
           <div className="space-y-8">
             {[
               {
-                title: 'Senior Developer',
-                company: 'Tech Corp',
-                period: '2020 - Present',
-                description: 'Led development of multiple high-impact projects, improving system efficiency by 40%. Mentored junior developers and implemented modern development practices.'
+                title: 'Project Specialist',
+                company: 'PRGX Global',
+                period: '2008 - Present',
+                description: ''
               },
               {
                 title: 'Full Stack Developer',
