@@ -65,14 +65,20 @@ const App: FC = () => {
               {
                 title: 'Project Specialist',
                 company: 'PRGX Global',
-                period: '2008 - Present',
+                period: '200809 - Present',
                 description: ''
               },
               {
-                title: 'Full Stack Developer',
-                company: 'Innovation Labs',
-                period: '2018 - 2020',
-                description: 'Developed scalable web applications using React and Node.js. Implemented CI/CD pipelines and reduced deployment time by 60%.'
+                title: 'Senior Auditor',
+                company: 'Connolly Consulting Canada (now Cotiviti)',
+                period: '200706 - 200710',
+                description: ''
+              },
+              {
+                title: 'Senior Auditor',
+                company: 'PGRX Global',
+                period: '200101 - 200703',
+                description: ''
               }
             ].map((job, index) => (
               <div
