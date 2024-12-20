@@ -3,17 +3,18 @@
 @tailwind utilities;
 
 :root {
-  --primary: #2563eb;
-  --secondary: #475569;
-  --background: #ffffff;
-  --text: #1e293b;
+  --primary: #F0A830;
+  --secondary: #483030;
+  --background: #EEE0B7;
+  --text: #5E412F;
 }
 
 [data-theme='dark'] {
-  --primary: #3b82f6;
+  --primary: #4ECDC4;
   --secondary: #94a3b8;
-  --background: #0f172a;
-  --text: #f1f5f9;
+  /* 0f172a */
+  --background: #483030;
+  --text: #EEE0B7;
 }
 
 body {
