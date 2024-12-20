@@ -3,16 +3,10 @@ import { motion } from 'framer-motion'
 export default function JobTitles() {
   const titles = [
     {
-      role: "Senior Software Engineer",
-      company: "Company Name",
-      period: "2020 - Present",
-      description: "Lead development of enterprise applications using React and Node.js"
-    },
-    {
-      role: "Full Stack Developer",
-      company: "Previous Company",
-      period: "2018 - 2020",
-      description: "Developed and maintained web applications using modern technologies"
+      role: "Project Specialist",
+      company: "PRGX Global",
+      period: "2009 - Present",
+      description: "Expert at distilling complex functional and technical requirements into illuminating, intuitive, and performant analytical solutions that range from monthly management reports to petabyte-scale data operations."
     }
   ]
 
