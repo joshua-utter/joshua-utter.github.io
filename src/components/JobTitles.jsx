@@ -15,7 +15,7 @@ export default function JobTitles() {
       <motion.div 
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
-        className="w-64 h-64 mx-auto mb-12 rounded-full overflow-hidden"
+        className="w-64 h-64 mx-auto mb-10 rounded-full overflow-hidden"
       >
         <img 
           src="assets/profile.png"

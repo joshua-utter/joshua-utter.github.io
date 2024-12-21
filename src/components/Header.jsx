@@ -11,7 +11,7 @@ export default function Header() {
         Joshua Utter
       </motion.h1>
       <p className="text-xl text-secondary">
-        Full Stack Developer & Technology Enthusiast
+        Data Engineer, Builder & Innovation Engine
       </p>
     </header>
   )
