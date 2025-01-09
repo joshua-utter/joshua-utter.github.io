@@ -5,7 +5,7 @@ export default function JobTitles() {
     {
       role: "Project Specialist",
       company: "PRGX Global",
-      period: "2009 - Present",
+      period: "2001 - Present",
       description: "Expert at distilling complex functional and technical requirements into illuminating, intuitive, and performant analytical solutions that range from monthly management reports to petabyte-scale data operations."
     }
   ]
