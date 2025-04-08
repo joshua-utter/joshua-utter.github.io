@@ -19,6 +19,6 @@ Let's Connect!
 - **Soft Skills**: Mentorship, Communication, Automation, Process Improvement
 
 ## Current Passions 🌱
-- **LLMs/Machine Learning**: MLOps, Vector Databases, Prompt Engineering, Retrieval Augmented Generation, Context Aware 
+- **LLMs/Machine Learning**: MLOps, Vector Databases, Prompt Engineering, Retrieval Augmented Generation
 
 
